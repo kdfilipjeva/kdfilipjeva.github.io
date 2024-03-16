@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Other | Academic</title>
+    <link>http://localhost:1313/tag/other/</link>
+      <atom:link href="http://localhost:1313/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>Other</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Other</title>
+      <link>http://localhost:1313/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями Git.</title>
+      <link>http://localhost:1313/post/postonchoose/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/postonchoose/</guid>
+      <description>&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
+&lt;p&gt;Не была особо продуктивной  и позволила себе хорошенько отдохнуть. Сделала лабораторную работу по Технологии Программирования. Сдала зачет по корейскому языку, получив высший результат в группе. Горжусь собой.&lt;/p&gt;
+&lt;h2 id=&#34;что-то-новенькое&#34;&gt;Что-то новенькое&lt;/h2&gt;
+&lt;p&gt;Попробовала установить и освоить Scilab, поняла, что язык очень похож на Pascal, с которого начался мой путь в программировании.&lt;/p&gt;
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;свободное-время&#34;&gt;Свободное время&lt;/h2&gt;
+&lt;p&gt;Наконец-то дочитала книгу &amp;ldquo;Маленькие женщины&amp;rdquo; Луизы Мэй Олкотт чувствую себя опустошенной. Против книги, фильм с Тимоти Шаламе, полная блажь :(&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
