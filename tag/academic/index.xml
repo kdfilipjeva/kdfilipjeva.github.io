@@ -5,12 +5,30 @@
     <link>http://localhost:1313/tag/academic/</link>
       <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>http://localhost:1313/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Пост по прошедшей неделе (01-07 апреля)</title>
+      <link>http://localhost:1313/post/weeklypost_april/</link>
+      <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/weeklypost_april/</guid>
+      <description>&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
+&lt;p&gt;Написала контрольные по математической логике и математическому анализу&lt;/p&gt;
+&lt;p&gt;Была очередная контрольная работа по корейскому языку, где я снова смогла набрать высший балл&lt;/p&gt;
+&lt;h2 id=&#34;что-то-новенькое&#34;&gt;Что-то новенькое&lt;/h2&gt;
+&lt;p&gt;Смогла выйти в финал олимпиады по аналитике и занялась разработкой сайта, который предлагала качестве концепции в полуфинале&lt;/p&gt;
+&lt;h2 id=&#34;свободное-время&#34;&gt;Свободное время&lt;/h2&gt;
+&lt;p&gt;Посетила выставку, посвященную такому явлению как &amp;ldquo;манга&amp;rdquo;, но что интересно именно для меня - манхва&lt;/p&gt;
+&lt;p&gt;Узнала, что для кореиста-переводчика достаточно иметь 3 гып(уровень знания языка). Думаю, что уже скоро смогу подтвердить свой уровень и попробовать себя в подобном направлении.&lt;/p&gt;
+&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
+&lt;p&gt;Получилась довольно продуктивная неделя, я рада&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Пост по прошедшей неделе (11-17 марта)</title>
