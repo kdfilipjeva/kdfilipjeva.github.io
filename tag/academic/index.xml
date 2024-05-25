@@ -5,12 +5,22 @@
     <link>http://localhost:1313/tag/academic/</link>
       <atom:link href="http://localhost:1313/tag/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Academic</title>
       <link>http://localhost:1313/tag/academic/</link>
     </image>
+    
+    <item>
+      <title>Weekly Update (May 6-12)</title>
+      <link>http://localhost:1313/post/weeklypostmay/</link>
+      <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/weeklypostmay/</guid>
+      <description>&lt;h2 id=&#34;not-a-super-productive-week-as-it-was-a-holiday-week-and-i-took-some-time-to-relax&#34;&gt;Not a super productive week, as it was a holiday week and I took some time to relax.&lt;/h2&gt;
+&lt;h2 id=&#34;on-the-bright-side-i-rewatched-a-few-movies-that-i-didnt-understand-before-its-nice-to-finally-get-them&#34;&gt;On the bright side, I rewatched a few movies that I didn&amp;rsquo;t understand before. It&amp;rsquo;s nice to finally get them!&lt;/h2&gt;
+</description>
+    </item>
     
     <item>
       <title>BookSharing</title>
@@ -21,20 +31,19 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (01-07 апреля)</title>
+      <title>Weekly Update (April 1-7)</title>
       <link>http://localhost:1313/post/weeklypost_april/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/weeklypost_april/</guid>
-      <description>&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
-&lt;p&gt;Написала контрольные по математической логике и математическому анализу&lt;/p&gt;
-&lt;p&gt;Была очередная контрольная работа по корейскому языку, где я снова смогла набрать высший балл&lt;/p&gt;
-&lt;h2 id=&#34;что-то-новенькое&#34;&gt;Что-то новенькое&lt;/h2&gt;
-&lt;p&gt;Смогла выйти в финал олимпиады по аналитике и занялась разработкой сайта, который предлагала качестве концепции в полуфинале&lt;/p&gt;
-&lt;h2 id=&#34;свободное-время&#34;&gt;Свободное время&lt;/h2&gt;
-&lt;p&gt;Посетила выставку, посвященную такому явлению как &amp;ldquo;манга&amp;rdquo;, но что интересно именно для меня - манхва&lt;/p&gt;
-&lt;p&gt;Узнала, что для кореиста-переводчика достаточно иметь 3 гып(уровень знания языка). Думаю, что уже скоро смогу подтвердить свой уровень и попробовать себя в подобном направлении.&lt;/p&gt;
-&lt;h2 id=&#34;итог&#34;&gt;Итог&lt;/h2&gt;
-&lt;p&gt;Получилась довольно продуктивная неделя, я рада&lt;/p&gt;
+      <description>&lt;h2 id=&#34;academics&#34;&gt;Academics&lt;/h2&gt;
+&lt;p&gt;This week was all about exams! I finished my math logic and calculus tests.  I also aced another Korean language test, scoring the highest again!&lt;/p&gt;
+&lt;h2 id=&#34;new-adventures&#34;&gt;New Adventures&lt;/h2&gt;
+&lt;p&gt;I made it to the finals of an analytics olympiad and started working on developing the website I proposed in the semi-finals.&lt;/p&gt;
+&lt;h2 id=&#34;free-time&#34;&gt;Free Time&lt;/h2&gt;
+&lt;p&gt;I went to an exhibition dedicated to the phenomenon of &amp;ldquo;manga,&amp;rdquo; but for me, it was specifically about &amp;ldquo;manhwa.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I learned that to be a Korean translator, you only need to have a level 3 &amp;ldquo;gyp&amp;rdquo; (Korean language proficiency level). I think I&amp;rsquo;ll be able to confirm my level soon and try my hand at that kind of work.&lt;/p&gt;
+&lt;h2 id=&#34;overall&#34;&gt;Overall&lt;/h2&gt;
+&lt;p&gt;It was a pretty productive week, I&amp;rsquo;m happy!&lt;/p&gt;
 </description>
     </item>
     
@@ -52,17 +61,16 @@
     </item>
     
     <item>
-      <title>Пост по прошедшей неделе (11-17 марта)</title>
+      <title>Weekly Update (March 11-17)</title>
       <link>http://localhost:1313/post/weeklypost/</link>
       <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/weeklypost/</guid>
-      <description>&lt;h2 id=&#34;учёба&#34;&gt;Учёба&lt;/h2&gt;
-&lt;p&gt;Не была особо продуктивной  и позволила себе хорошенько отдохнуть. Сделала лабораторную работу по Технологии Программирования. Сдала зачет по корейскому языку, получив высший результат в группе. Горжусь собой.&lt;/p&gt;
-&lt;h2 id=&#34;что-то-новенькое&#34;&gt;Что-то новенькое&lt;/h2&gt;
-&lt;p&gt;Попробовала установить и освоить Scilab, поняла, что язык очень похож на Pascal, с которого начался мой путь в программировании.&lt;/p&gt;
-&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
-&lt;h2 id=&#34;свободное-время&#34;&gt;Свободное время&lt;/h2&gt;
-&lt;p&gt;Наконец-то дочитала книгу &amp;ldquo;Маленькие женщины&amp;rdquo; Луизы Мэй Олкотт чувствую себя опустошенной. Против книги, фильм с Тимоти Шаламе, полная блажь :(&lt;/p&gt;
+      <description>&lt;h2 id=&#34;academics&#34;&gt;Academics&lt;/h2&gt;
+&lt;p&gt;This week was more chill and focused on relaxation. I completed my Programming Technology lab assignment. I also aced my Korean language exam, scoring the highest in the group! Feeling proud of myself.&lt;/p&gt;
+&lt;h2 id=&#34;new-adventures&#34;&gt;New Adventures&lt;/h2&gt;
+&lt;p&gt;I tried installing and getting familiar with Scilab. It reminded me a lot of Pascal, the language that started my programming journey.&lt;/p&gt;
+&lt;h2 id=&#34;free-time&#34;&gt;Free Time&lt;/h2&gt;
+&lt;p&gt;Finally finished reading &amp;ldquo;Little Women&amp;rdquo; by Louisa May Alcott. Feeling a bit empty now. The movie with Timothée Chalamet is a complete flop compared to the book :(&lt;/p&gt;
 </description>
     </item>
     
